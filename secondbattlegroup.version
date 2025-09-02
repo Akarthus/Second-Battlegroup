@@ -8,8 +8,7 @@
         "minor":3,
         "patch":2,
     },
-    "directDownloadURL":"https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/changelog",
-    "changelogURL":"https://fractalsoftworks.com/forum/index.php?topic=33081.0"
+    "changelogURL":"https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/changelog"
 
 }
 
