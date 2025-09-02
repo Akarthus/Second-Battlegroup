@@ -1,0 +1,20 @@
+v1.3.2: Added version checker
+
+v1.3.1: Fixed some minor coding. 
+  Balance Change: (2025/7/30)
+    Invictus (II) Ordinance Points: 200 -> 225
+    Champion (II) Built-in hullmod: Ballistic Rangefinder -> Energy Bolt Coherer
+
+v1.3.0: Fixed some minor coding issues and added Venture (II) (A) (2025/6/18)
+
+v1.2.1: Fixed the bug where Brawler have a comically small collision radius (2025/6/15)
+
+v1.2.0: Added Kite (II) (A) and Shepherd (II) (A). Also changed the color of Second Battlegroup Auxilia design (2025/5/21)
+
+v1.1.0: Added Champion (II) (2025/5/19)
+
+v1.0.2: Added II ships to title screen and sim battle (2025/5/18)
+
+v1.0.1: Fixed the bugs that the Lance of Oblivion will turn and Player fleet won't spawn these ship even if it has the blueprint (2025/5/17)
+
+v1.0.0: Release (2025/5/16)
