@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/secondbattlegroup.version,
+    "masterVersionFile":"https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/secondbattlegroup.version",
     "modName":"Second Battlegroup",
     "modThreadId":33081,
     "modVersion":
@@ -12,3 +12,4 @@
     "changelogURL":"https://fractalsoftworks.com/forum/index.php?topic=33081.0"
 
 }
+
