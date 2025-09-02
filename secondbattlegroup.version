@@ -1,13 +1,14 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/qcwxezda/Starsector-Unthemed-Weapons/refs/heads/utilsonly/unthemedweapons.version",
+    "masterVersionFile":https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/secondbattlegroup.version,
     "modName":"Second Battlegroup",
     "modThreadId":33081,
     "modVersion":
     {
         "major":1,
         "minor":3,
-        "patch":1,
+        "patch":2,
     },
     "directDownloadURL":"https://drive.google.com/file/d/1MzW5_E48iNYDoDUmlNdeV9aNSXeL1Kb7/view",
     "changelogURL":"https://fractalsoftworks.com/forum/index.php?topic=33081.0"
+
 }
