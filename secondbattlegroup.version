@@ -5,8 +5,8 @@
     "modVersion":
     {
         "major":2,
-        "minor":0,
-        "patch":2,
+        "minor":1,
+        "patch":0,
     },
     "changelogURL":"https://raw.githubusercontent.com/Akarthus/Second-Battlegroup/refs/heads/main/changelog"
 
