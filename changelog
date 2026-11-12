@@ -1,3 +1,15 @@
+v2.1.0: Updated for Starsector 0.98.5a-RC4. (2026/11/11)
+  Balance Change:
+    Conquest (II) Top Speed: 45 -> 55; Acceleration: 20 -> 25; Deceleration: 15 -> 20
+    Hammerhead (II) Flux Capacity: 4200 -> 5000
+    Champion (II) Ordnance Points: 175 -> 200; Flux Dissipation: 550 -> 650
+    Apogee (II) Max Burn: 8 -> 9; Deployment and Monthly Supply Costs: 25 -> 23
+    Brawler (II) Added the DO_NOT_TURN_TO_ARMOR AI hint
+    Invictus (II) Crew Salary Multiplier: 1.5x
+    Atlas (II) (A) Crew Salary Multiplier: 0.5x
+    Kite (II) (A) Crew Salary Multiplier: 0.5x
+    LR PD Laser (II) Range: 1000 -> 1200; Beam Speed: 3600 -> 6000
+
 v2.0.2: Attempted to fix the bug that is causing self hitting.
 
 v2.0.1: SAVE GAME COMPATIBLE!!! You just won't get the new weapons in loot. You can find them in Prism Freeport.
